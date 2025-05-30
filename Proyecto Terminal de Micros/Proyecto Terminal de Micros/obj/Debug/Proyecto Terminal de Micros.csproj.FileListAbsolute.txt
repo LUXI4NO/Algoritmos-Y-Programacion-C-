@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Proyecto Terminal de Micros\Proyecto Terminal de Micros\bin\Debug\Proyecto Terminal de Micros.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Proyecto Terminal de Micros\Proyecto Terminal de Micros\bin\Debug\Proyecto Terminal de Micros.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Proyecto Terminal de Micros\Proyecto Terminal de Micros\obj\Debug\Proyecto Terminal de Micros.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Proyecto Terminal de Micros\Proyecto Terminal de Micros\obj\Debug\Proyecto Terminal de Micros.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Proyecto Terminal de Micros\Proyecto Terminal de Micros\obj\Debug\Proyecto Terminal de Micros.pdb

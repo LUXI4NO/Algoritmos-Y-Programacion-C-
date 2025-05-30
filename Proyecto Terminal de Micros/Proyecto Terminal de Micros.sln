@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto Terminal de Micros", "Proyecto Terminal de Micros\Proyecto Terminal de Micros.csproj", "{AD98647B-0931-46A7-9E5F-635700930520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD98647B-0931-46A7-9E5F-635700930520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD98647B-0931-46A7-9E5F-635700930520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD98647B-0931-46A7-9E5F-635700930520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD98647B-0931-46A7-9E5F-635700930520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
