@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Proyecto Recursiva #2\Proyecto Recursiva #2\bin\Debug\Proyecto Recursiva #2.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Proyecto Recursiva #2\Proyecto Recursiva #2\bin\Debug\Proyecto Recursiva #2.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Proyecto Recursiva #2\Proyecto Recursiva #2\obj\Debug\Proyecto Recursiva #2.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Proyecto Recursiva #2\Proyecto Recursiva #2\obj\Debug\Proyecto Recursiva #2.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Proyecto Recursiva #2\Proyecto Recursiva #2\obj\Debug\Proyecto Recursiva #2.pdb
