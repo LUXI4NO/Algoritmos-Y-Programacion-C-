@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Funcion Recursiva\Funcion Recursiva\bin\Debug\Funcion Recursiva.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Funcion Recursiva\Funcion Recursiva\bin\Debug\Funcion Recursiva.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Funcion Recursiva\Funcion Recursiva\obj\Debug\Funcion Recursiva.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Funcion Recursiva\Funcion Recursiva\obj\Debug\Funcion Recursiva.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Funcion Recursiva\Funcion Recursiva\obj\Debug\Funcion Recursiva.pdb
