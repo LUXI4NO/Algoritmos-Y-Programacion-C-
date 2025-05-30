@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Clinica\Clinica\obj\Debug\Clinica.pdb
