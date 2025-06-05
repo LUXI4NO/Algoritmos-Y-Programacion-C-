@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Drogueria\Drogueria\bin\Debug\Drogueria.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Drogueria\Drogueria\bin\Debug\Drogueria.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Drogueria\Drogueria\obj\Debug\Drogueria.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Drogueria\Drogueria\obj\Debug\Drogueria.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Drogueria\Drogueria\obj\Debug\Drogueria.pdb
