@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Complejo de Cine\Complejo de Cine\obj\Debug\Complejo de Cine.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Complejo de Cine\Complejo de Cine\bin\Debug\Complejo de Cine.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Complejo de Cine\Complejo de Cine\bin\Debug\Complejo de Cine.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Complejo de Cine\Complejo de Cine\obj\Debug\Complejo de Cine.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Complejo de Cine\Complejo de Cine\obj\Debug\Complejo de Cine.pdb
