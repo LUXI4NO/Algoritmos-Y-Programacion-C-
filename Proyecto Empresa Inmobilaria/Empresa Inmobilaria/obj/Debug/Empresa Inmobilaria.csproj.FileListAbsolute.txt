@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Empresa Inmobilaria\Empresa Inmobilaria\bin\Debug\Empresa Inmobilaria.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Empresa Inmobilaria\Empresa Inmobilaria\bin\Debug\Empresa Inmobilaria.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Empresa Inmobilaria\Empresa Inmobilaria\obj\Debug\Empresa Inmobilaria.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Empresa Inmobilaria\Empresa Inmobilaria\obj\Debug\Empresa Inmobilaria.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Empresa Inmobilaria\Empresa Inmobilaria\obj\Debug\Empresa Inmobilaria.pdb
