@@ -1,0 +1,5 @@
+C:\Users\Maguila\Documents\SharpDevelop Projects\estacionamiento\estacionamiento\obj\Debug\estacionamiento.csprojResolveAssemblyReference.cache
+C:\Users\Maguila\Documents\SharpDevelop Projects\estacionamiento\estacionamiento\bin\Debug\estacionamiento.exe
+C:\Users\Maguila\Documents\SharpDevelop Projects\estacionamiento\estacionamiento\bin\Debug\estacionamiento.pdb
+C:\Users\Maguila\Documents\SharpDevelop Projects\estacionamiento\estacionamiento\obj\Debug\estacionamiento.exe
+C:\Users\Maguila\Documents\SharpDevelop Projects\estacionamiento\estacionamiento\obj\Debug\estacionamiento.pdb
